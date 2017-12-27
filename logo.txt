@@ -1,0 +1,79 @@
+Logo
+====
+
+c:'				content = c:
+c::				content = c: , structured
+
+c''				content = c'
+c':				content = c' , structured
+
+
+  |
+  v
+
+
+:'
+::
+''
+':
+
+
+  |
+  v
+
+
+. .
+.
+. .
+. .
+. .
+. .
+  .
+
+
+  |
+  v
+
+
+flip c: and c' examples to get reflection symmetry.
+specification should still keep c: first since it's the next logical step showing how to escape the structure delimiter after it's shown how it's used.
+
+
+  |
+  v
+
+
+''
+':
+:'
+::
+
+
+  |
+  v
+
+
+. .
+. .
+  .
+. .
+.
+. .
+. .
+
+
+  |
+  v
+
+
+vertically connect the dots to form lines
+
+
+  |
+  v
+
+
+| |
+  |
+| 
+| |
